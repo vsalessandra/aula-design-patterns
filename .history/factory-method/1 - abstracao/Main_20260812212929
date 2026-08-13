@@ -1,9 +1,0 @@
-public class Main {
-
-    public static void main(String[] args) {
-
-        NotificationService service = new NotificationService();
-
-        service.sendNotification("Your order has been shipped!");
-    }
-}
